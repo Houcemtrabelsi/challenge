@@ -1,0 +1,2 @@
+export const GET_COCKTAILS='GET_COCKTAILS'
+export const GET_COCKTAIL='GET_COCKTAIL'
